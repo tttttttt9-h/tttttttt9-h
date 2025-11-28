@@ -4,7 +4,7 @@
 set -e
 
 # Error trap
-trap 'echo "[ERROR] kubectl installation failed (line $LINENO)" >&2; exit 1' ERR
+trap 'echo "[ERROR] eksctl installation failed (line $LINENO)" >&2; exit 1' ERR
 
 # Detect architecture
 ARCH=$(uname -m)
