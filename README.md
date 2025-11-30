@@ -1,4 +1,3 @@
-
 # 안녕하세요! 👋 클라우드 엔지니어를 꿈꾸는 개발자입니다
 
 ## 🚀 About Me
@@ -73,13 +72,10 @@ Oracle Free Tier를 이용한 개인용 URL 단축 서비스
 - **Tech**: OCI, Docker, Yaml
 - **Link**: [Site(Other people cannot login.)](https://l.whanci.xyz)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [AWS VPC 설계 가이드](https://yourblog.com)
-- [Terraform으로 인프라 자동화하기](https://yourblog.com)
-- [Kubernetes 네트워킹 이해하기](https://yourblog.com)
-<!-- BLOG-POST-LIST:END -->
+## 📝 Blog Posts
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@tttttttt9-h)
+### Latest Post
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tttttttt9-h)](https://github.com/eungyeole/velog-readme-stats)
 
 ## 🌱 Learning Resources
 
