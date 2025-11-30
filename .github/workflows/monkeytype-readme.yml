@@ -1,12 +1,12 @@
 name: generate monkeytype readme svg
 
 on:
-schedule:
+  schedule:
     - cron: "0 */6 * * *" # every 6 hours
-workflow_dispatch:
+  workflow_dispatch: {} # Add an empty object, or just leave it blank line 9 & 10
 
 jobs:
-download-svg:
+  download-svg:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
