@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tttttttt9-h&show_icons=true&&theme=tokyonight)](https://github.com/tttttttt9-h/tttttttt9-h)
+[![WhAnci's GitHub stats](https://github-readme-stats.vercel.app/api?username=tttttttt9-h)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttttttt9-h&layout=compact&theme=tokyonight)
 
