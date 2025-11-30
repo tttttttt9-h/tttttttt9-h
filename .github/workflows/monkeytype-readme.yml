@@ -3,32 +3,32 @@ name: generate monkeytype readme svg
 on:
   schedule:
     - cron: "0 */6 * * *" # every 6 hours
-  workflow_dispatch: {} # Add an empty object, or just leave it blank line 9 & 10
+  workflow_dispatch:
 
 jobs:
   download-svg:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
-        uses: actions/checkout@v3
+      uses: actions/checkout@v3 # steps의 항목(- name:)보다 2칸 더 들여쓰기
 
     - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-        node-version: '16.x'
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16.x' # with:보다 2칸 더 들여쓰기
 
     - name: Download SVG
-        run: |
-        mkdir public
+      run: |
+        mkdir public # run: | 아래의 내용은 2칸 더 들여쓰기 (파이프 라인 안의 내용)
         curl -o public/monkeytype-readme.svg https://monkeytype-readme.com/generate-svg/WhAnci/magic_girl
         curl -o public/monkeytype-readme-lb.svg https://monkeytype-readme.com/generate-svg/WhAnci/magic_girl?lb=true
         curl -o public/monkeytype-readme-pb.svg https://monkeytype-readme.com/generate-svg/WhAnci/magic_girl?pb=true
         curl -o public/monkeytype-readme-lb-pb.svg https://monkeytype-readme.com/generate-svg/WhAnci/magic_girl?lbpb=true
 
     - name: push monkeytype-readme.svg to the monkeytype-readme branch
-        uses: crazy-max/ghaction-github-pages@v2.5.0
-        with:
+      uses: crazy-max/ghaction-github-pages@v2.5.0
+      with:
         target_branch: monkeytype-readme
         build_dir: public
         env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
