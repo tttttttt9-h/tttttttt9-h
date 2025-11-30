@@ -8,6 +8,10 @@ on:
 jobs:
   download-svg:
     runs-on: ubuntu-latest
+    # --- 🛠️ 수정 사항 시작: Git 권한 부여 (Exit Code 128 해결) ---
+    permissions:
+      contents: write
+    # --- 🛠️ 수정 사항 끝 ---
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -30,7 +34,5 @@ jobs:
         with:
           target_branch: monkeytype-readme
           build_dir: public
-        # CORRECT INDENTATION STARTS HERE
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        # CORRECT INDENTATION ENDS HERE
