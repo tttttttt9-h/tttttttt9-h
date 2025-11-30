@@ -72,9 +72,7 @@ Oracle Free Tier를 이용한 개인용 URL 단축 서비스
 - **Tech**: OCI, Docker, Yaml
 - **Link**: [Site(Other people cannot login.)](https://l.whanci.xyz)
 
-## 📝 Blog Posts
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=eungyeole)](https://velog.io/@tttttttt9-h)
-### Latest Post
+## 📝 Latest Blog Posts
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tttttttt9-h)](https://github.com/eungyeole/velog-readme-stats)
 
 ## 🌱 Learning Resources
