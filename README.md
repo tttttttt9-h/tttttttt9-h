@@ -64,11 +64,12 @@
 
 ## 💼 Projects Highlight
 
-### 🔹 Linky: A Quick Link Clipper
+### 🔹 Linky: A Quick Link Clipper</br>
+[![Firefox Add-Ons](https://img.shields.io/badge/Firefox_Add_Ons-20123A?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-GB/firefox/addon/linky-a-quick-link-clipper/reviews/)</br>
 고가용성을 고려한 웹 애플리케이션 인프라 구축
 - **Tech**: AWS, Terraform, Docker
 - **Link**: [Repository](https://github.com/tttttttt9-h/Linky)
-- 	[![Firefox Add-Ons](https://img.shields.io/badge/Firefox_Add_Ons-20123A?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-GB/firefox/addon/linky-a-quick-link-clipper/reviews/)
+
 ### Kutt
 Oracle Free Tier를 이용한 개인용 URL 단축 서비스
 - **Tech**: OCI, Docker, Yaml
