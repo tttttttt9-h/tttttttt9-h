@@ -35,7 +35,7 @@
 ## 📊 Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tttttttt9-h&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tttttttt9-h&theme=github_dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tttttttt9-h&layout=compact&theme=radical)
 
 
 ## 🎯 Currently Learning
