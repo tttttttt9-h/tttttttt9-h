@@ -41,8 +41,9 @@
 
 ### Monkeytype
 <a href="https://monkeytype.com/profile/WhAnci">
-    <img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_REPOSITORY/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+    <img src="https://raw.githubusercontent.com/tttttttt9-h/tttttttt9-h/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
 </a>
+</br>
 ## 🎯 Currently Learning
 
 - ☁️ AWS Solutions Architect 자격증 준비
