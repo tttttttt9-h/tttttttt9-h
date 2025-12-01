@@ -1,4 +1,5 @@
 # Git Auto Push
+cat << 'EOF' >> ~/.bashrc
 g() {
   if [ -z "$1" ]; then
     echo "사용법: g '커밋메시지' [브랜치명]"
@@ -12,3 +13,4 @@ g() {
   git commit -m "$commit_msg" && \
   git push origin "$branch"
 }
+EOF
