@@ -12,3 +12,6 @@ I’m continuously learning and challenging myself to become a better engineer.
 - I often study while listening to Chuu’s music. 💗
 - I am learning Japanese with the goal of working in Japan.
 - I am based in South Korea. 
+
+## Stats
+![MyStat](https://monkeytype-stats.vercel.app/api?user=WhAnci&theme=hedge&mode=time&length=30)
