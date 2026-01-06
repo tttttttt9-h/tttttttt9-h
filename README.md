@@ -14,4 +14,4 @@ I’m continuously learning and challenging myself to become a better engineer.
 - I am based in South Korea. 
 
 ## Stats
-![MyStat](https://monkeytype-stats.vercel.app/api?user=WhAnci&theme=hedge&mode=time&length=30)
+![MyStat](https://monkeytype-stats.vercel.app/api?user=WhAnci&theme=darling&mode=time&length=30)
